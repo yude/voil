@@ -1,0 +1,6 @@
+name = "voil"
+compatibility_date = "2023-01-01"
+
+kv_namespaces = [
+  { binding = "voil", id = "foo", preview_id = "bar" }
+]
