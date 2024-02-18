@@ -1,8 +1,13 @@
-```
-npm install
-npm run dev
+# voil
+
+Simple headless CMS
+
+## Development
+
+```shell
+bun dev
 ```
 
-```
-npm run deploy
-```
+## License
+
+MIT
